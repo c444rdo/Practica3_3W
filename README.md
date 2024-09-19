@@ -1,6 +1,8 @@
 # Practica3_3W
 # Martínez Estrada Ricardo
 
+print ("Martínez Estrada Ricardo")
+print (" ")
 # Hay tres tipos de numeros en Python: "int", "float" y "complex".
 x = 1    # Es int
 y = 2.8  # Es float
@@ -39,8 +41,5 @@ m = -87.7e100
 print(type(p))
 print(type(l))
 print(type(m))
-print (" ")
 
-print ("Martínez Estrada Ricardo")
-
-![image](https://github.com/user-attachments/assets/2007db6d-fd0d-4145-a5d5-680c1d0b2876)
+![image](https://github.com/user-attachments/assets/63b32374-8f94-466a-a7f3-bf24e0782421)
